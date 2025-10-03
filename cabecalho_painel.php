@@ -45,7 +45,7 @@ https://templatemo.com/tm-532-next-level
                   </li>
                   <li class="nav-item">
                     <div class="tm-nav-link-highlight"></div>
-                    <a class="nav-link" href="about.php">Sobre</a>
+                    <a class="nav-link" href="sobre.php">Sobre</a>
                   </li>
                   <li class="nav-item">
                     <div class="tm-nav-link-highlight"></div>
@@ -53,7 +53,7 @@ https://templatemo.com/tm-532-next-level
                   </li>
                   <li class="nav-item">
                     <div class="tm-nav-link-highlight"></div>
-                    <a class="nav-link" href="contact.php">Sair</a>
+                    <a class="nav-link" href="login.php">Sair</a>
                   </li>
                 </ul>
               </div>

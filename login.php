@@ -38,9 +38,10 @@
 
     <div class="text-center">
       <button
-        type="submit"
+        type="button"
         class="btn btn-secondary tm-btn-submit rounded-0"
-        style="font-family: 'Open Sans', sans-serif; width: 100%; padding: 12px;">
+        style="font-family: 'Open Sans', sans-serif; width: 100%; padding: 12px;"
+        onclick="window.location.href='dashboard.php'">
         Entrar
       </button>
     </div>
